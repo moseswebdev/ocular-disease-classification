@@ -1,5 +1,13 @@
 # 🧠 Multiclass Ocular Disease Classification Using Deep Learning & Vision Transformers
+# 🧠 Multiclass Ocular Disease Classification
 
+This repository contains a **Multiclass Ocular Disease Classification** project using **Deep Learning** and **Vision Transformers**.  
+
+The full **Colab notebook** with code, training, and evaluation is available here:
+
+[💻 Open ODM.ipynb on Google Colab](https://github.com/moseswebdev/moseswebdev/blob/2c1bfba563f85c6709a0b30cad34876c9024e914/ODM.ipynb)
+
+---
 ## 📌 Overview
 Ocular diseases are a major cause of vision impairment worldwide, and early diagnosis is essential to prevent irreversible blindness.  
 This project presents a **multiclass ocular disease classification system** using **deep learning and transformer-based architectures**, including **DenseNet201**, **ConvNeXt**, and a **custom Vision Transformer (ViT-B16)** implemented in TensorFlow/Keras.
